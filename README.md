@@ -1,28 +1,38 @@
 <h1 align="center">Hi 👋, I'm Ayushman Shukla</h1>
-<h3 align="center">Full Stack Developer | Software Engineer | Python • FastAPI • React.js</h3>
+
+<h3 align="center">
+Full Stack Developer | Software Engineer | Python • FastAPI • React.js
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7A3DF0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;Python+%7C+FastAPI+%7C+React.js;Building+Scalable+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7A3DF0&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Software+Engineer;Python+%7C+FastAPI+%7C+React.js;Building+Scalable+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ayushman7985"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ayushman7985&label=Profile%20Views&color=7A3DF0&style=for-the-badge" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ayushman7985">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:ayushman.shukla7985@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=ayushman7985&label=Profile%20Views&color=7A3DF0&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Ayushman Shukla Banner" width="100%"/>
+  <img src="./assets/banner.png" alt="Ayushman Shukla Developer Banner" width="100%"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-
-<img align="right" width="260" src="https://raw.githubusercontent.com/ryan-yang125/Ryan-Yang125/output/snake.svg" alt="decorative" />
 
 > 💬 **"Turning ideas into scalable, production-ready software — one commit at a time."**
 
@@ -31,33 +41,39 @@
     <th align="left">🎓 Education</th>
     <td>B.Tech, Computer Science Engineering <sub>(2026 Batch)</sub></td>
   </tr>
+
   <tr>
     <th align="left">💼 Current Role</th>
     <td>SDE Intern @ <b>BharatScales</b></td>
   </tr>
+
   <tr>
     <th align="left">🌱 Focus</th>
-    <td>Python&nbsp;•&nbsp;FastAPI&nbsp;•&nbsp;React.js&nbsp;•&nbsp;Node.js</td>
+    <td>Python • FastAPI • React.js • Node.js</td>
   </tr>
+
   <tr>
     <th align="left">🧠 Foundations</th>
-    <td>DSA&nbsp;•&nbsp;OOP&nbsp;•&nbsp;DBMS&nbsp;•&nbsp;OS&nbsp;•&nbsp;Software Engineering</td>
+    <td>DSA • OOP • DBMS • OS • Software Engineering</td>
   </tr>
+
   <tr>
     <th align="left">☁️ Exploring</th>
-    <td>Docker&nbsp;•&nbsp;AWS&nbsp;•&nbsp;CI/CD&nbsp;•&nbsp;System Design</td>
+    <td>Docker • AWS • CI/CD • System Design</td>
   </tr>
+
   <tr>
     <th align="left">🎯 Looking For</th>
-    <td>Software Engineer&nbsp;/&nbsp;Backend&nbsp;/&nbsp;Full Stack roles</td>
+    <td>Software Engineer / Backend / Full Stack Roles</td>
   </tr>
+
   <tr>
     <th align="left">📍 Location</th>
     <td>India — Open to Relocation ✈️</td>
   </tr>
 </table>
 
-<br clear="right"/>
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_2026_Batch-7A3DF0?style=for-the-badge&labelColor=1a1a2e"/>
@@ -68,139 +84,233 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p align="center">
-  <b>Languages</b><br>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" />
 </p>
 
+### 🎨 Frontend
+
 <p align="center">
-  <b>Frontend</b><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
+### ⚙️ Backend & APIs
+
 <p align="center">
-  <b>Backend & APIs</b><br>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
+### 🗄️ Databases
+
 <p align="center">
-  <b>Databases</b><br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
 </p>
 
+### ☁️ Cloud, DevOps & Tools
+
 <p align="center">
-  <b>Cloud, DevOps & Tools</b><br>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,linux" />
 </p>
 
+### 🤖 AI / Machine Learning
+
 <p align="center">
-  <b>AI / ML</b><br>
-  <img src="https://skillicons.dev/icons?i=python" /><br>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
   Scikit-learn • Pandas • NumPy • Machine Learning • Deep Learning • AI-assisted Development
 </p>
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
 <details open>
-<summary><b>Software Development Intern — BharatScales</b></summary>
+<summary><b>🚀 Software Development Intern — BharatScales</b></summary>
+
 <br>
 
-- Building and deploying full-stack applications using **React.js, Python and FastAPI**
-- Developing and integrating **RESTful APIs**
-- Working on modular, maintainable and testable codebases
-- Debugging and upgrading legacy application modules
-- Translating business requirements into practical engineering solutions
-- Working across the complete development lifecycle from requirements to production
+* Building and deploying full-stack applications using **React.js, Python and FastAPI**
+* Designing and integrating **RESTful APIs**
+* Developing modular, maintainable and testable software
+* Debugging and upgrading legacy application modules
+* Translating business requirements into practical engineering solutions
+* Working across the complete software development lifecycle
+* Creating technical documentation and maintaining clean codebases
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <details open>
 <summary><b>♟️ Neural-Mate — AI Chess Game</b></summary>
+
 <br>
-An interactive AI-powered chess game where users can play against an AI engine.
 
-**Tech:** React.js • FastAPI • Python • python-chess • Minimax • Alpha-Beta Pruning
+An interactive AI-powered chess game where users can play against an AI engine with selectable difficulty levels.
 
-🔗 [Live Demo](https://neural-mate-nine.vercel.app/) • [GitHub](https://github.com/ayushman7985/Neural-Mate)
+### Tech Stack
+
+`React.js` `FastAPI` `Python` `python-chess`
+
+### Highlights
+
+* Minimax AI algorithm
+* Alpha-Beta pruning
+* Difficulty-based AI depth
+* Real-time move validation
+* REST APIs for game-state management
+
+🔗 **[Live Demo](https://neural-mate-nine.vercel.app/)**
+🔗 **[GitHub Repository](https://github.com/ayushman7985/Neural-Mate)**
+
 </details>
+
+<br>
 
 <details>
 <summary><b>✅ Personal Task Manager</b></summary>
+
 <br>
-Full-stack task management app with task creation, priorities, due dates, search, filtering, sorting and drag-and-drop functionality.
 
-**Tech:** React.js • Node.js • Express.js • SQLite
+A full-stack task management application with a modern cyberpunk-inspired interface.
 
-🔗 [Live Demo](https://personal-task-manager-yjed.vercel.app/) • [GitHub](https://github.com/ayushman7985/Personal-Task-Manager)
+### Tech Stack
+
+`React.js` `Node.js` `Express.js` `SQLite`
+
+### Features
+
+* Create and manage tasks
+* Due dates and priorities
+* Search and filtering
+* Sorting
+* Drag-and-drop task ordering
+* Completion tracking
+* Task status counters
+
+🔗 **[Live Demo](https://personal-task-manager-yjed.vercel.app/)**
+🔗 **[GitHub Repository](https://github.com/ayushman7985/Personal-Task-Manager)**
+
 </details>
+
+<br>
 
 <details>
 <summary><b>📊 Attendance Management System</b></summary>
+
 <br>
-Multi-tenant attendance management system designed for organizations to manage employees and attendance data.
 
-**Tech:** FastAPI • PostgreSQL • React.js • REST APIs
+A multi-tenant attendance management system designed for organizations to manage employees and attendance data.
 
-🔗 [GitHub](https://github.com/ayushman7985/Attendence-System)
+### Tech Stack
+
+`FastAPI` `PostgreSQL` `React.js` `REST APIs`
+
+### Features
+
+* Organization-based data separation
+* Employee management
+* Attendance tracking
+* Admin controls
+* RESTful backend APIs
+
+🔗 **[GitHub Repository](https://github.com/ayushman7985/Attendence-System)**
+
 </details>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushman7985&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushman7985&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushman7985&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman7985&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushman7985&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushman7985&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
+# 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman7985&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushman7985&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushman7985&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7"/>
+</p>
+
+---
+
+# 🧠 Currently Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,typescript" />
 </p>
 
-**System Design • Cloud Computing • DevOps • Advanced Backend Development • AI Engineering**
+<p align="center">
+  <b>System Design • Cloud Computing • DevOps • Advanced Backend Development • AI Engineering</b>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+# 🎯 2026 Goals
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ayushman7985"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+🚀 Become a strong Software Engineer <br>
+💻 Build scalable production-ready applications <br>
+☁️ Strengthen Cloud & DevOps skills <br>
+🧠 Improve DSA & System Design <br>
+🤖 Explore AI Engineering & Agentic AI
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ayushman7985">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ayushman.shukla7985@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <b>💡 Building. Learning. Improving. 🚀</b>
+  <b>💡 Build. Learn. Ship. Repeat. 🚀</b>
 </p>
 
-<!--
-✨ INTERACTIVE ELEMENTS USED IN THIS README:
-- Typing animation (readme-typing-svg)
-- Live visitor counter (komarev)
-- Collapsible <details> sections for Experience & Projects (click to expand/collapse)
-- Live GitHub stats, streak, top languages, activity graph, trophies (auto-update)
-- Skill icon badges (skillicons.dev)
--->
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐</i>
+</p>
