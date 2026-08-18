@@ -16,16 +16,7 @@
 
 ## 🚀 About Me
 
-```yaml
-name: Ayushman Shukla
-education: "B.Tech Computer Science Engineering — 2026 Batch"
-role: "SDE Intern @ BharatScales"
-focus: "Python, FastAPI, React.js, Node.js"
-foundations: "DSA, OOP, DBMS, Operating Systems, Software Engineering"
-exploring: "Docker, AWS, CI/CD, System Design"
-looking_for: "Software Engineer / Backend / Full Stack roles"
-location: "India (Open to Relocation)"
-```
+<table align="center"> <tr> <td>🎓</td> <td><b>Education</b></td> <td>B.Tech in Computer Science Engineering — 2026 Batch</td> </tr> <tr> <td>💼</td> <td><b>Current Role</b></td> <td>SDE Intern @ <a href="#">BharatScales</a></td> </tr> <tr> <td>🌱</td> <td><b>Focus</b></td> <td>Python • FastAPI • React.js • Node.js</td> </tr> <tr> <td>🧠</td> <td><b>Foundations</b></td> <td>DSA • OOP • DBMS • Operating Systems • Software Engineering</td> </tr> <tr> <td>☁️</td> <td><b>Exploring</b></td> <td>Docker • AWS • CI/CD • System Design</td> </tr> <tr> <td>🎯</td> <td><b>Looking For</b></td> <td>Software Engineer / Backend / Full Stack roles</td> </tr> <tr> <td>📍</td> <td><b>Location</b></td> <td>India — Open to Relocation</td> </tr> </table> <p align="center"> <img src="https://img.shields.io/badge/🎓_2026_Batch-7A3DF0?style=flat-square&color=7A3DF0&logoColor=white"/> <img src="https://img.shields.io/badge/💼_SDE_Intern-0A66C2?style=flat-square"/> <img src="https://img.shields.io/badge/🎯_Open_to_Work-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/📍_India-orange?style=flat-square"/> </p>
 
 ---
 
