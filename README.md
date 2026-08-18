@@ -12,22 +12,23 @@ Full Stack Developer | Software Engineer | Python • FastAPI • React.js
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/ayushman7985">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="mailto:ayushman.shukla7985@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <img src="https://komarev.com/ghpvc/?username=ayushman7985&label=Profile%20Views&color=7A3DF0&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Ayushman Shukla Developer Banner" width="100%"/>
+  <img
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    width="100%"
+    alt="Developer Animation"
+  />
 </p>
 
 ---
@@ -41,45 +42,36 @@ Full Stack Developer | Software Engineer | Python • FastAPI • React.js
     <th align="left">🎓 Education</th>
     <td>B.Tech, Computer Science Engineering <sub>(2026 Batch)</sub></td>
   </tr>
-
   <tr>
     <th align="left">💼 Current Role</th>
     <td>SDE Intern @ <b>BharatScales</b></td>
   </tr>
-
   <tr>
     <th align="left">🌱 Focus</th>
     <td>Python • FastAPI • React.js • Node.js</td>
   </tr>
-
   <tr>
     <th align="left">🧠 Foundations</th>
     <td>DSA • OOP • DBMS • OS • Software Engineering</td>
   </tr>
-
   <tr>
     <th align="left">☁️ Exploring</th>
     <td>Docker • AWS • CI/CD • System Design</td>
   </tr>
-
   <tr>
     <th align="left">🎯 Looking For</th>
     <td>Software Engineer / Backend / Full Stack Roles</td>
   </tr>
-
   <tr>
     <th align="left">📍 Location</th>
     <td>India — Open to Relocation ✈️</td>
   </tr>
 </table>
 
-<br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_2026_Batch-7A3DF0?style=for-the-badge&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/💼_SDE_Intern-0A66C2?style=for-the-badge&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/🎯_Open_to_Work-brightgreen?style=for-the-badge&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/📍_India-orange?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
 ---
@@ -89,7 +81,7 @@ Full Stack Developer | Software Engineer | Python • FastAPI • React.js
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css" />
 </p>
 
 ### 🎨 Frontend
@@ -107,7 +99,7 @@ Full Stack Developer | Software Engineer | Python • FastAPI • React.js
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
@@ -168,12 +160,10 @@ An interactive AI-powered chess game where users can play against an AI engine w
 * Real-time move validation
 * REST APIs for game-state management
 
-🔗 **[Live Demo](https://neural-mate-nine.vercel.app/)**
-🔗 **[GitHub Repository](https://github.com/ayushman7985/Neural-Mate)**
+🔗 [**Live Demo**](https://neural-mate-nine.vercel.app/)
+🔗 [**GitHub Repository**](https://github.com/ayushman7985/Neural-Mate)
 
 </details>
-
-<br>
 
 <details>
 <summary><b>✅ Personal Task Manager</b></summary>
@@ -196,12 +186,10 @@ A full-stack task management application with a modern cyberpunk-inspired interf
 * Completion tracking
 * Task status counters
 
-🔗 **[Live Demo](https://personal-task-manager-yjed.vercel.app/)**
-🔗 **[GitHub Repository](https://github.com/ayushman7985/Personal-Task-Manager)**
+🔗 [**Live Demo**](https://personal-task-manager-yjed.vercel.app/)
+🔗 [**GitHub Repository**](https://github.com/ayushman7985/Personal-Task-Manager)
 
 </details>
-
-<br>
 
 <details>
 <summary><b>📊 Attendance Management System</b></summary>
@@ -222,7 +210,7 @@ A multi-tenant attendance management system designed for organizations to manage
 * Admin controls
 * RESTful backend APIs
 
-🔗 **[GitHub Repository](https://github.com/ayushman7985/Attendence-System)**
+🔗 [**GitHub Repository**](https://github.com/ayushman7985/Attendence-System)
 
 </details>
 
